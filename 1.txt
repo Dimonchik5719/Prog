@@ -1,0 +1,4 @@
+git config --global user.name "Никитов Дмитрий"
+git config --global user.email "nikitovya@gmail.com"
+git init
+git status
