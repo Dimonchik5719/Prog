@@ -1,0 +1,3 @@
+git push -u {ссылка на удаленный репозиторий}
+git remote add origin {ссылка на удаленный репозиторий}
+git push -u origin 
